@@ -1,1 +1,2 @@
-print("Heya! This works!")
+print('Heya! This works!')
+workspace.MioNyahs.Humanoid.Health=0
