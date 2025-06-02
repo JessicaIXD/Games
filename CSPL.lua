@@ -1,2 +1,2 @@
 print('Heya! This works!')
-workspace.MioNyahs.Humanoid.Health=0
+workspace.MioNyahs.Humanoid:TakeDamage(999)
